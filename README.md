@@ -18,7 +18,7 @@ Sistem berbasis **Laravel** untuk integrasi dengan Mikrotik, dengan fitur-fitur 
 - 📊 Integrasi dengan **DataTables**  
 - 🧾 Export PDF invoice  
 - 🔒 Isolir otomatis via Mikrotik API
-- 📲 Notifikasi WhatsApp
+- 📲 Notifikasi WhatsApp ke pelanggan
 
 ---
 
