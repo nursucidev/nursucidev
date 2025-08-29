@@ -1,16 +1,34 @@
-## Hi there 👋
+# Halo 👋, Saya **NurSuci_DEV**
 
-<!--
-**nursucidev/nursucidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Seorang developer yang berfokus pada **Laravel** sebagai pekerjaan sampingan.  
+Meskipun bukan pekerjaan utama, saya selalu berusaha menyelesaikan setiap proyek dengan **perencanaan logika yang matang**, struktur kode yang rapi, dan hasil yang benar-benar dapat digunakan sesuai kebutuhan.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Keahlian Utama
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+## 🛠️ Proyek Unggulan: **NS-Mikrotik**
+Sistem berbasis **Laravel** untuk integrasi dengan Mikrotik, dengan fitur-fitur utama:
+
+- 👥 Manajemen pelanggan & langganan  
+- 💳 Sistem billing otomatis  
+- 📊 Integrasi dengan **DataTables**  
+- 🧾 Export PDF invoice  
+- 🔒 Isolir otomatis via Mikrotik API
+- 📲 Notifikasi WhatsApp
+
+---
+
+## 📊 Statistik GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nursucidev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nursucidev&layout=compact&theme=radical)
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: **nursucidev@gmail.com**  
+- 📷 Instagram: [@nursuci_developer](https://www.instagram.com/nursuci_developer/)  
+- 💬 WhatsApp: [Klik untuk chat](https://wa.me/6285926351195)
