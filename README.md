@@ -10,7 +10,7 @@ Meskipun bukan pekerjaan utama, saya selalu berusaha menyelesaikan setiap proyek
 
 ---
 
-## 🛠️ Proyek Unggulan: **NS-Mikrotik**
+## 🛠️ Proyek Unggulan: **NS-Mikrotik (PRIVATE)**
 Sistem berbasis **Laravel** untuk integrasi dengan Mikrotik, dengan fitur-fitur utama:
 
 - 👥 Manajemen pelanggan & langganan  
